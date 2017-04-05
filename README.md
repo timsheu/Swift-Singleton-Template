@@ -1,5 +1,5 @@
 # Swift-Singleton-Template
-## Infomation
+## Information
 A simple singleton template that made for Swift in Xcode 8
 As singleton is used a lot, a singleton template is written.
 
