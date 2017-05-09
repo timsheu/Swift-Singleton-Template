@@ -13,6 +13,7 @@ protocol ___FILEBASENAMEASIDENTIFIER___Delegate {
 }
 
 public class ___FILEBASENAMEASIDENTIFIER___: NSObject{
+    var delegate: ___FILEBASENAMEASIDENTIFIER___Delegate?
     let TAG = "___FILEBASENAMEASIDENTIFIER___"
     static let shared: ___FILEBASENAMEASIDENTIFIER___ = {___FILEBASENAMEASIDENTIFIER___()}() // lazy initialization closure
     
